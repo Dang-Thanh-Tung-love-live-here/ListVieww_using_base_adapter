@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='ListVieww_using_base_adapter'
